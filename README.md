@@ -1,4 +1,4 @@
-# Hi there, I'm James Perper! 👋  
+# Hi there, I'm James! 👋  
 
 🚀 **Full Stack Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
 
@@ -9,12 +9,6 @@
 Passionate about **building scalable applications**, **AI-driven solutions**, and **cloud architectures**.
 
 Like a fox—**agile, adaptive, and always thinking ahead**—I navigate complex systems, crafting smart and efficient solutions.  
-
-📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-l-perper)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gofoxy)  
-[![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jameslperper.dorik.io/)  
-[![Schedule a Meeting](https://img.shields.io/badge/Schedule_Meeting-25D366?style=for-the-badge&logo=Google-Meet&logoColor=white)](https://calendly.com/jamesperper/30min)  
 
 ---
 
