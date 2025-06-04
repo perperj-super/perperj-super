@@ -1,6 +1,6 @@
 # Hi there, I'm James! 👋  
 
-🚀 **Full Stack Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
+🚀 **Frontend Engineer** | 🦊 **Passionate about AI & Startups** | ⚛️ **React Enthusiast** | ☁️ **AWS Practitioner**  
 
 ---
 ![Fail Fast, Learn Faster](banner.png)
